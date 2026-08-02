@@ -19,6 +19,6 @@ int main(){
 
     cout<<"Enter the breath :";
     cin>>breath;
-
+// The obstactial is the way and mind set, Will you were calm
     rec(length,breath);
 }
